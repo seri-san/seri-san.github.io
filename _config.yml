@@ -6,9 +6,3 @@ theme: minima
 lang: ja
 author: sambleparker
 permalink: /:year/:month/:title/
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-markdown: kramdown
-highlighter: rouge
